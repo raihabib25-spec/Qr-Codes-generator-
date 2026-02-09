@@ -1,5 +1,5 @@
 # Qr-Codes-generator-
-# Instal import pycrode library Qr Code 
+# Instal import pycrode library + Qr Code 
 pip install pyqrcode
 import pyqrcode 
 from pyqrcode import QRCode 
